@@ -1,4 +1,10 @@
 
+   //Declare a string variable with paragraph as value.Find following:
+//a.Number of sentences,words and characters
+//b. Number of special charaters
+//c. Number of vowels and consonant 
+    
+    
     const para = `For example, if you are designing a brand new website for someone, most times you will have to make sure the prototype looks finished by inserting text or photos or what have you. 
     The purpose of this is so the person viewing the prototype has a chance to actually feel and understand the idea behind what you have created.
     Now in some circumstances, designers may use squares and rectangles to help you visualize what should and could be in a specific location.
